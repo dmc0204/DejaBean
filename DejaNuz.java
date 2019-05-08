@@ -3,7 +3,7 @@ package dejanuz;
 import javax.swing.*;
 
 /*
-DejaNuz by: Jacob, Jabari, Dan and Donovan
+DejaNuz by: Donovan Cummins
 
 OC: Focus your queries to specific domains to rank their 
 relevance in regard to a user input string. 
